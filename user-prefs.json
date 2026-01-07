@@ -1,0 +1,2900 @@
+{
+  "export": {
+    "filesSelection": [
+      {
+        "path": "config",
+        "isSelected": true
+      },
+      {
+        "path": "config\\cubic_control",
+        "isSelected": true
+      },
+      {
+        "path": "config\\cubic_control\\hnm",
+        "isSelected": true
+      },
+      {
+        "path": "config\\cubic_control\\hnm\\1.7",
+        "isSelected": true
+      },
+      {
+        "path": "config\\cubic_control\\hnm\\1.7\\ConfigurationFile.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\tlf",
+        "isSelected": true
+      },
+      {
+        "path": "config\\tlf\\hidden.txt",
+        "isSelected": true
+      },
+      {
+        "path": "config\\tlf\\HideNames.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ArchitectureCraft.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\BiblioCraft.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\binocular_Hello Neighbor - Alpha 3 ENG - Copie - Copie.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\binocular_Hello Neighbor - Alpha 3 ENG - Copie.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\camping.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\CarpentersBlocks.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\chisel.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\CustomNpcs.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\DynamicLights_dropItems.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\DynamicLights_entityClasses.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\DynamicLights_floodLights.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\DynamicLights_mobEquipment.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\DynamicLights_onFire.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\DynamicLights_otherPlayers.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\DynamicLights_thePlayer.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\etfuturum.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\fantastic.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forge.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\forgeChunkLoading.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\FreezeCam.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\ftfragileglass.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\iChunUtil.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\iChunUtil_KeyBinds.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\malisisdoors.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\metachanger.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\props.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\PTRModelLib.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\randomadditions.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\securitycraft.cfg",
+        "isSelected": true
+      },
+      {
+        "path": "config\\splash.properties",
+        "isSelected": true
+      },
+      {
+        "path": "crash-reports",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports\\crash-2025-02-27_22.28.06-server.txt",
+        "isSelected": false
+      },
+      {
+        "path": "crash-reports\\crash-2025-02-28_11.37.13-server.txt",
+        "isSelected": false
+      },
+      {
+        "path": "customnpcs",
+        "isSelected": false
+      },
+      {
+        "path": "customnpcs\\assets",
+        "isSelected": false
+      },
+      {
+        "path": "customnpcs\\assets\\customnpcs",
+        "isSelected": false
+      },
+      {
+        "path": "customnpcs\\assets\\customnpcs\\sounds",
+        "isSelected": false
+      },
+      {
+        "path": "customnpcs\\assets\\customnpcs\\textures",
+        "isSelected": false
+      },
+      {
+        "path": "customnpcs\\assets\\customnpcs\\textures\\cache",
+        "isSelected": false
+      },
+      {
+        "path": "customnpcs\\assets\\customnpcs\\textures\\cache\\diamond_block.png",
+        "isSelected": false
+      },
+      {
+        "path": "customnpcs\\assets\\customnpcs\\textures\\cache\\gold_block.png",
+        "isSelected": false
+      },
+      {
+        "path": "customnpcs\\assets\\customnpcs\\textures\\cache\\iron_block.png",
+        "isSelected": false
+      },
+      {
+        "path": "customnpcs\\assets\\customnpcs\\textures\\cache\\planks_acacia.png",
+        "isSelected": false
+      },
+      {
+        "path": "customnpcs\\assets\\customnpcs\\textures\\cache\\planks_big_oak.png",
+        "isSelected": false
+      },
+      {
+        "path": "customnpcs\\assets\\customnpcs\\textures\\cache\\planks_birch.png",
+        "isSelected": false
+      },
+      {
+        "path": "customnpcs\\assets\\customnpcs\\textures\\cache\\planks_jungle.png",
+        "isSelected": false
+      },
+      {
+        "path": "customnpcs\\assets\\customnpcs\\textures\\cache\\planks_oak.png",
+        "isSelected": false
+      },
+      {
+        "path": "customnpcs\\assets\\customnpcs\\textures\\cache\\planks_spruce.png",
+        "isSelected": false
+      },
+      {
+        "path": "customnpcs\\assets\\customnpcs\\textures\\cache\\stone.png",
+        "isSelected": false
+      },
+      {
+        "path": "customnpcs\\assets\\customnpcs\\textures\\cache\\wool_colored_white.png",
+        "isSelected": false
+      },
+      {
+        "path": "customnpcs\\assets\\customnpcs\\sounds.json",
+        "isSelected": false
+      },
+      {
+        "path": "datapacks",
+        "isSelected": true
+      },
+      {
+        "path": "downloads",
+        "isSelected": false
+      },
+      {
+        "path": "fonts",
+        "isSelected": false
+      },
+      {
+        "path": "fonts\\Digital-7 Mono.bin",
+        "isSelected": false
+      },
+      {
+        "path": "fonts\\Digital-7 Mono.png",
+        "isSelected": false
+      },
+      {
+        "path": "logs",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-02-25-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-02-25-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-02-25-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-02-25-4.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-02-25-5.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-02-25-6.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-02-25-7.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-02-26-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-02-27-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-02-27-2.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-02-27-3.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-02-28-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\2025-03-29-1.log.gz",
+        "isSelected": false
+      },
+      {
+        "path": "logs\\latest.log",
+        "isSelected": false
+      },
+      {
+        "path": "mods",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\carpentersblocks",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\carpentersblocks\\Nouveau dossier",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\carpentersblocks\\CarpentersBlocksCachedResources.zip",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\AnimationAPI-1.7.10.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\ArchitectureCraft-1.7.2-mc1.7.10.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\BetterFps_1.0.1.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\BiblioCraft[v1.11.7][MC1.7.10].jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\binocular_1.7.10_1.2.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\Carpenter's Blocks v3.3.8.2 - MC 1.7.10.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\Chisel-1.7.10-1.5.7.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\CubicCore[v1.0.0].jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\Custom-NPCs-Mod-1.7.10.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\Decocraft-2.4.2_1.7.10.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\DrinkCraft Mod v1.0.zip",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\DynamicLights-1.7.10.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\Et_Futurum_1.5.5.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\Fantastic-Fish-Mod-1.7.10.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\Flashlight_1.7.10_1.0.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\Fragile Glass and Thin Ice-1.7.10-1.8.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\FreezeCam_1.7.10_4.1.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\Hide Names-1.7.10-1.1.8.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\iChunUtil-4.2.3.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\KeyAndCodeLock_1.7.10_1.4.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\malisiscore-1.7.10-0.14.3.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\malisisdoors-1.7.10-1.13.2.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\metachanger-0.2.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\OptiFine_1.7.10_HD_U_D3.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\PlayerAPI-1.7.10-1.4.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\Rail Bridges.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\random-additions-mod-1.7.10_67a2b.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\RenderPlayerAPI-1.7.10-1.0.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\RikMuldsCore_1.0c.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\TheCampingMod_2.1g.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\The_Colored_Blocks_Mod_1.7.10.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\TooManyItems2014_07_15_1.7.10_Forge.jar",
+        "isSelected": false
+      },
+      {
+        "path": "mods\\[1.7.10] SecurityCraft v1.8.1.jar",
+        "isSelected": true
+      },
+      {
+        "path": "mods\\[1.7]NeighborCraft[1.0.5B].jar",
+        "isSelected": false
+      },
+      {
+        "path": "resourcepacks",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\mcpatcher",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\mcpatcher\\colormap",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\mcpatcher\\ctm",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\mcpatcher\\font",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\mcpatcher\\sky",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\mcpatcher\\sky\\world0",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\mcpatcher\\sky\\world0\\sky2.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\mcpatcher\\sky\\world0\\sky2.properties",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\mcpatcher\\natural.properties",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\ambient",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\ambient\\weather",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\ambient\\weather\\rain1.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\ambient\\weather\\rain2.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\ambient\\weather\\rain3.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\ambient\\weather\\rain4.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\ambient\\weather\\thunder1.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\ambient\\weather\\thunder2.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\ambient\\weather\\thunder3.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\damage",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\damage\\hit1.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\damage\\hit2.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\damage\\hit3.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\cloth1.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\cloth2.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\cloth3.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\cloth4.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\cloth5.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\grass1.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\grass2.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\grass3.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\grass4.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\grass5.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\grass6.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\grass7.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\grass8.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\gravel1.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\gravel2.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\gravel3.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\gravel4.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\gravel5.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\gravel6.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\ladder1.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\ladder2.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\ladder3.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\ladder4.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\ladder5.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\sand1.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\sand2.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\sand3.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\sand4.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\sand5.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\sand6.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\snow1.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\snow2.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\snow3.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\snow4.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\wood.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\wood1.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\wood2.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\wood3.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\wood4.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\wood5.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\wood6.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\wood7.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\wood8.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\dig\\wood9.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\random",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\random\\anvil_break.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\random\\anvil_use.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\random\\ArcherEventBlack.map",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\random\\chestclosed.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\random\\chestopen.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\random\\door_close.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\random\\door_closed.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\random\\door_open.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\random\\drink.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\random\\fuse.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\random\\glass1.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\random\\glass2.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\sound\\random\\glass3.ogg",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\texts",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\bedrock.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\bookshelf.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\brick.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\cake_bottom.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\cake_inner.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\cake_side.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\cake_top.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\carrots_stage_0.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\carrots_stage_1.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\carrots_stage_2.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\carrots_stage_3.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\coal_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\coal_ore.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\cobblestone.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\cobblestone_mossy.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\crafting_table_front.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\crafting_table_front_n.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\crafting_table_front_s.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\crafting_table_side.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\crafting_table_side_n.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\crafting_table_side_s.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\crafting_table_top.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\crafting_table_top_n.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\crafting_table_top_s.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\deadbush.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\diamond_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\diamond_ore.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\dirt.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\door_iron_lower.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\door_iron_upper.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\door_wood_lower.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\door_wood_upper.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\double_plant_paeonia_bottom.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\double_plant_paeonia_top.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\double_plant_rose_bottom.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\double_plant_rose_top.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\double_plant_sunflower_back.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\double_plant_sunflower_bottom.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\double_plant_sunflower_front.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\double_plant_sunflower_top.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\double_plant_syringa_bottom.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\double_plant_syringa_top.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\emerald_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\emerald_ore.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\flower_allium.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\flower_blue_orchid.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\flower_dandelion.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\flower_houstonia.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\flower_oxeye_daisy.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\flower_paeonia.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\flower_rose.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\flower_tulip_orange.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\flower_tulip_pink.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\flower_tulip_red.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\flower_tulip_white.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\furnace_front_off.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\furnace_front_on.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\furnace_side.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\furnace_top.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\glass.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\glass_pane_top.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\gold_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\gold_ore.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\grass_side.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\grass_side_overlay.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\grass_top.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\gravel.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\iron_bars.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\iron_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\iron_ore.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\jukebox_side.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\jukebox_side.png.mcmeta",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\jukebox_top.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\jukebox_top.png.mcmeta",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\ladder.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\lapis_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\lapis_ore.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\leaves_acacia.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\leaves_acacia_opaque.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\leaves_big_oak.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\leaves_big_oak_opaque.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\leaves_birch.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\leaves_birch_opaque.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\leaves_jungle.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\leaves_jungle_opaque.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\leaves_oak.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\leaves_oak_opaque.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\leaves_spruce.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\leaves_spruce_opaque.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\log_acacia.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\log_big_oak.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\log_birch.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\log_jungle.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\log_oak.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\log_spruce.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\mushroom_brown.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\mushroom_red.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\nether_brick.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\planks_acacia.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\planks_big_oak.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\planks_birch.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\planks_jungle.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\planks_oak.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\planks_spruce.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\potatoes_stage_0.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\potatoes_stage_1.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\potatoes_stage_2.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\potatoes_stage_3.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\pumpkin_face_off.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\pumpkin_face_on.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\pumpkin_side.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\pumpkin_top.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\rail_detector.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\rail_golden.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\rail_golden_powered.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\rail_normal.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\redstone_block.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\redstone_lamp.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\redstone_lamp_on.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\redstone_ore.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\sand.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\sandstone_bottom.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\sandstone_carved.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\sandstone_normal.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\sandstone_side.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\sandstone_smooth.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\sandstone_top.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\sapling_roofed_oak.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\sapling_spruce.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\stone.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\tnt_top.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\tnt_top.png.mcmeta",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\torch_on.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\wool_colored_black.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\wool_colored_blue.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\wool_colored_brown.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\wool_colored_cyan.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\wool_colored_gray.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\wool_colored_green.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\wool_colored_light_blue.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\wool_colored_lime.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\wool_colored_magenta.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\wool_colored_orange.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\wool_colored_pink.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\wool_colored_purple.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\wool_colored_red.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\wool_colored_silver.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\wool_colored_white.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\blocks\\wool_colored_yellow.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\colormap",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\colormap\\foliage.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\colormap\\grass.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\entity",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\entity\\chest",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\entity\\creeper",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\entity\\skeleton",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\entity\\villager",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\entity\\zombie",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\entity\\sign.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\entity\\steve.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\environment",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\environment\\moon_phases.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\environment\\rain.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\environment\\snow.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\environment\\sun.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\font",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\gui",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\gui\\container",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\gui\\container\\creative_inventory",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\gui\\title",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\gui\\title\\background",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\gui\\title\\minecraft.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\gui\\title\\mojang.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\gui\\widgets.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\apple.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\apple_golden.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\beef_cooked.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\beef_raw.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\beetroot.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\beetroot_soup.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\blaze_powder.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\boat.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\bone.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\bowl.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\bread.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\brick.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\bucket_empty.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\bucket_lava.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\bucket_milk.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\bucket_water.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\cake.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\carrot.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\cauldron.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\chicken_cooked.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\chicken_raw.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\cookie.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\egg.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\ender_eye.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\ender_pearl.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\feather.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\fireball.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\fireworks.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\fireworks_charge.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\fish_clownfish_raw.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\flower_pot.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\gold_ingot.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\melon.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\melon_speckled.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\mushroom_stew.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\mutton_cooked.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\mutton_raw.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\netherbrick.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\porkchop_cooked.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\porkchop_raw.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\potato.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\potato_baked.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\potato_poisonous.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\record_11.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\record_13.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\record_blocks.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\record_cat.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\record_chirp.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\record_far.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\record_mall.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\record_mellohi.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\record_stal.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\record_strad.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\record_wait.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\record_ward.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\snowball.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\stick.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\items\\wheat.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\map",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\misc",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\models",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\models\\armor",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\painting",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\painting\\paintings_kristoffer_zetterstrand.png",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\assets\\minecraft\\textures\\particle",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\pack.mcmeta",
+        "isSelected": true
+      },
+      {
+        "path": "resourcepacks\\Hello Neighbor\\pack.png",
+        "isSelected": true
+      },
+      {
+        "path": "saves",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\##MCEDIT.TEMP##",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\##MCEDIT.TEMP##\\region",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\customnpcs",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\customnpcs\\playerdata",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\customnpcs\\playerdata\\Neighbor.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\customnpcs\\playerdata\\Neighbor.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\customnpcs\\scripts",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\customnpcs\\scripts\\scala",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\customnpcs\\scripts\\saved_data.txt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\customnpcs\\dialog.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\customnpcs\\dialog.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\customnpcs\\recipes.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\idcounts.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\ImmersiveEngineering-SaveData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\map_0.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\map_1.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\map_10.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\map_11.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\map_12.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\map_13.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\map_14.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\map_15.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\map_16.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\map_17.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\map_18.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\map_19.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\map_2.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\map_20.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\map_21.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\map_22.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\map_23.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\map_24.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\map_25.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\map_26.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\map_27.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\map_28.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\map_3.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\map_4.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\map_5.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\map_6.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\map_7.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\map_8.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\map_9.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\Village.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\data\\villages.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\DIM-1",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\DIM-1\\##MCEDIT.TEMP##",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\DIM-1\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\DIM-1\\players",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\DIM-1\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\DIM1",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\DIM1\\##MCEDIT.TEMP##",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\DIM1\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\DIM1\\players",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\DIM1\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\playerdata",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\playerdata\\00000000-0000-0000-0000-000000000000.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\playerdata\\00000000-0000-0000-0000-000000000000.etfuturum",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\players",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\region",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\region\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\region\\r.-1.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\region\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\region\\r.-2.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\region\\r.-3.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\region\\r.-3.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\region\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\region\\r.0.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\region\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\region\\r.1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\region\\r.1.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\region\\r.1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\stats",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\stats\\00000000-0000-0000-0000-000000000000.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\level.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\level.dat_mcr",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\level.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG\\session.lock",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\##MCEDIT.TEMP##",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\##MCEDIT.TEMP##\\region",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\customnpcs",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\customnpcs\\playerdata",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\customnpcs\\playerdata\\couxel_ytb.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\customnpcs\\playerdata\\couxel_ytb.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\customnpcs\\playerdata\\Neighbor.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\customnpcs\\playerdata\\Neighbor.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\customnpcs\\playerdata\\_couxel_.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\customnpcs\\playerdata\\_couxel_.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\customnpcs\\scripts",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\customnpcs\\scripts\\scala",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\customnpcs\\scripts\\saved_data.txt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\customnpcs\\dialog.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\customnpcs\\dialog.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\customnpcs\\recipes.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\idcounts.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\ImmersiveEngineering-SaveData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\map_0.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\map_1.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\map_10.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\map_11.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\map_12.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\map_13.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\map_14.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\map_15.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\map_16.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\map_17.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\map_18.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\map_19.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\map_2.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\map_20.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\map_21.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\map_22.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\map_23.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\map_24.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\map_25.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\map_26.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\map_27.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\map_28.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\map_3.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\map_4.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\map_5.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\map_6.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\map_7.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\map_8.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\map_9.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\Village.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\data\\villages.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\DIM-1",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\DIM-1\\##MCEDIT.TEMP##",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\DIM-1\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\DIM-1\\players",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\DIM-1\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\DIM1",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\DIM1\\##MCEDIT.TEMP##",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\DIM1\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\DIM1\\players",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\DIM1\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\playerdata",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\playerdata\\00000000-0000-0000-0000-000000000000.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\playerdata\\00000000-0000-0000-0000-000000000000.etfuturum",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\playerdata\\02685f01-f24d-46ad-a5c4-db976b5bbaa2.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\playerdata\\02685f01-f24d-46ad-a5c4-db976b5bbaa2.etfuturum",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\playerdata\\6c34fcf0-8fe0-4363-a761-b5e9e81325da.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\playerdata\\6c34fcf0-8fe0-4363-a761-b5e9e81325da.etfuturum",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\players",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\region",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\region\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\region\\r.-1.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\region\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\region\\r.-2.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\region\\r.-3.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\region\\r.-3.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\region\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\region\\r.0.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\region\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\region\\r.1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\region\\r.1.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\region\\r.1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\stats",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\stats\\00000000-0000-0000-0000-000000000000.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\stats\\02685f01-f24d-46ad-a5c4-db976b5bbaa2.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\stats\\6c34fcf0-8fe0-4363-a761-b5e9e81325da.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\level.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\level.dat_mcr",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\level.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie\\session.lock",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\##MCEDIT.TEMP##",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\##MCEDIT.TEMP##\\region",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\customnpcs",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\customnpcs\\playerdata",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\customnpcs\\playerdata\\Neighbor.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\customnpcs\\playerdata\\Neighbor.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\customnpcs\\playerdata\\_couxel_.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\customnpcs\\playerdata\\_couxel_.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\customnpcs\\scripts",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\customnpcs\\scripts\\scala",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\customnpcs\\scripts\\saved_data.txt",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\customnpcs\\dialog.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\customnpcs\\dialog.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\customnpcs\\recipes.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\idcounts.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\ImmersiveEngineering-SaveData.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\map_0.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\map_1.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\map_10.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\map_11.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\map_12.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\map_13.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\map_14.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\map_15.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\map_16.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\map_17.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\map_18.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\map_19.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\map_2.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\map_20.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\map_21.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\map_22.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\map_23.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\map_24.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\map_25.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\map_26.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\map_27.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\map_28.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\map_3.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\map_4.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\map_5.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\map_6.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\map_7.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\map_8.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\map_9.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\scoreboard.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\Village.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\data\\villages.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\DIM-1",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\DIM-1\\##MCEDIT.TEMP##",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\DIM-1\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\DIM-1\\players",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\DIM-1\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\DIM1",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\DIM1\\##MCEDIT.TEMP##",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\DIM1\\data",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\DIM1\\players",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\DIM1\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\playerdata",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\playerdata\\00000000-0000-0000-0000-000000000000.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\playerdata\\00000000-0000-0000-0000-000000000000.etfuturum",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\playerdata\\6c34fcf0-8fe0-4363-a761-b5e9e81325da.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\playerdata\\6c34fcf0-8fe0-4363-a761-b5e9e81325da.etfuturum",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\players",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\region",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\region\\r.-1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\region\\r.-1.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\region\\r.-1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\region\\r.-2.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\region\\r.-3.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\region\\r.-3.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\region\\r.0.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\region\\r.0.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\region\\r.0.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\region\\r.1.-1.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\region\\r.1.-2.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\region\\r.1.0.mca",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\stats",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\stats\\00000000-0000-0000-0000-000000000000.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\stats\\6c34fcf0-8fe0-4363-a761-b5e9e81325da.json",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\forcedchunks.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\level.dat",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\level.dat_mcr",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\level.dat_old",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie - Copie\\session.lock",
+        "isSelected": false
+      },
+      {
+        "path": "saves\\Hello Neighbor - Alpha 3 ENG - Copie-20250225-034241.zip",
+        "isSelected": false
+      },
+      {
+        "path": "screenshots",
+        "isSelected": false
+      },
+      {
+        "path": "screenshots\\2025-02-27_21.39.06.png",
+        "isSelected": false
+      },
+      {
+        "path": "screenshots\\2025-02-27_22.09.35.png",
+        "isSelected": false
+      },
+      {
+        "path": "shaderpacks",
+        "isSelected": true
+      },
+      {
+        "path": ".curseclient",
+        "isSelected": false
+      },
+      {
+        "path": "betterfps.txt",
+        "isSelected": false
+      },
+      {
+        "path": "imgui.ini",
+        "isSelected": false
+      },
+      {
+        "path": "minecraftinstance.json",
+        "isSelected": false
+      },
+      {
+        "path": "options.txt",
+        "isSelected": false
+      },
+      {
+        "path": "optionsof.txt",
+        "isSelected": false
+      },
+      {
+        "path": "Read Me.txt",
+        "isSelected": false
+      },
+      {
+        "path": "TMI.nbt",
+        "isSelected": false
+      },
+      {
+        "path": "TooManyItems.txt",
+        "isSelected": false
+      },
+      {
+        "path": "usernamecache.json",
+        "isSelected": false
+      }
+    ],
+    "recommendedRam": 8064,
+    "enableRecommendedRam": false
+  }
+}
