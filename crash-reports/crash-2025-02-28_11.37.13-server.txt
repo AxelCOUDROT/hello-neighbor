@@ -1,0 +1,135 @@
+---- Minecraft Crash Report ----
+// Shall we play a game?
+
+Time: 2/28/25 11:37 AM
+Description: Ticking memory connection
+
+java.lang.NullPointerException: Ticking memory connection
+	at com.creativemd.randomadditions.core.CraftMaterial.getModifiers(CraftMaterial.java:287)
+	at com.creativemd.randomadditions.common.event.EventHandlerRandom.onDrop(EventHandlerRandom.java:132)
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler_164_EventHandlerRandom_onDrop_HarvestDropsEvent.invoke(.dynamic)
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54)
+	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140)
+	at net.minecraftforge.event.ForgeEventFactory.fireBlockHarvesting(ForgeEventFactory.java:162)
+	at net.minecraft.block.Block.func_149690_a(Block.java:656)
+	at net.minecraft.block.Block.func_149697_b(Block.java:648)
+	at net.minecraft.block.Block.func_149636_a(Block.java:974)
+	at net.minecraft.server.management.ItemInWorldManager.func_73084_b(ItemInWorldManager.java:299)
+	at net.minecraft.server.management.ItemInWorldManager.func_73082_a(ItemInWorldManager.java:217)
+	at net.minecraft.network.NetHandlerPlayServer.func_147345_a(NetHandlerPlayServer.java:498)
+	at net.minecraft.network.play.client.C07PacketPlayerDigging.func_148833_a(SourceFile:53)
+	at net.minecraft.network.play.client.C07PacketPlayerDigging.func_148833_a(SourceFile:8)
+	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:212)
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:165)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:659)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:186)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at com.creativemd.randomadditions.core.CraftMaterial.getModifiers(CraftMaterial.java:287)
+	at com.creativemd.randomadditions.common.event.EventHandlerRandom.onDrop(EventHandlerRandom.java:132)
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler_164_EventHandlerRandom_onDrop_HarvestDropsEvent.invoke(.dynamic)
+	at cpw.mods.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:54)
+	at cpw.mods.fml.common.eventhandler.EventBus.post(EventBus.java:140)
+	at net.minecraftforge.event.ForgeEventFactory.fireBlockHarvesting(ForgeEventFactory.java:162)
+	at net.minecraft.block.Block.func_149690_a(Block.java:656)
+	at net.minecraft.block.Block.func_149697_b(Block.java:648)
+	at net.minecraft.block.Block.func_149636_a(Block.java:974)
+	at net.minecraft.server.management.ItemInWorldManager.func_73084_b(ItemInWorldManager.java:299)
+	at net.minecraft.server.management.ItemInWorldManager.func_73082_a(ItemInWorldManager.java:217)
+	at net.minecraft.network.NetHandlerPlayServer.func_147345_a(NetHandlerPlayServer.java:498)
+	at net.minecraft.network.play.client.C07PacketPlayerDigging.func_148833_a(SourceFile:53)
+	at net.minecraft.network.play.client.C07PacketPlayerDigging.func_148833_a(SourceFile:8)
+	at net.minecraft.network.NetworkManager.func_74428_b(NetworkManager.java:212)
+
+-- Ticking connection --
+Details:
+	Connection: net.minecraft.network.NetworkManager@1b8c71e3
+Stacktrace:
+	at net.minecraft.network.NetworkSystem.func_151269_c(NetworkSystem.java:165)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:659)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:547)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:186)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 1557419504 bytes (1485 MB) / 2557476864 bytes (2439 MB) up to 3817865216 bytes (3641 MB)
+	JVM Flags: 3 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx4096m -Xms256m
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v9.05 FML v7.10.99.99 Minecraft Forge 10.13.4.1614 Optifine OptiFine_1.7.10_HD_U_D3 45 mods loaded, 45 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UCHIJAAAAAAAAAAAAAAAA	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	FML{7.10.99.99} [Forge Mod Loader] (forge-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	Forge{10.13.4.1614} [Minecraft Forge] (forge-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	PlayerAPI{1.4} [Player API] (minecraft.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	RenderPlayerAPI{1.0} [Render Player API] (minecraft.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	TooManyItems{1.7.10} [TooManyItems] (minecraft.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	securitycraft{v1.8.1} [SecurityCraft] ([1.7.10] SecurityCraft v1.8.1.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	cubic_core{1.0.0} [CubicCore] (CubicCore[v1.0.0].jar) 
+	UCHIJAAAAAAAAAAAAAAAA	hnm{1.0.5B} [NeighborCraft] ([1.7]NeighborCraft[1.0.5B].jar) 
+	UCHIJAAAAAAAAAAAAAAAA	AnimationAPI{1.2.4} [AnimationAPI] (AnimationAPI-1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	ArchitectureCraft{1.7.2} [ArchitectureCraft] (ArchitectureCraft-1.7.2-mc1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	BiblioCraft{1.11.7} [BiblioCraft] (BiblioCraft[v1.11.7][MC1.7.10].jar) 
+	UCHIJAAAAAAAAAAAAAAAA	binocular{1.2} [Binocular] (binocular_1.7.10_1.2.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	CarpentersBlocks{3.3.8.2} [Carpenter's Blocks] (Carpenter's Blocks v3.3.8.2 - MC 1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	chisel{1.5.7} [Chisel] (Chisel-1.7.10-1.5.7.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	customnpcs{1.7.10b} [CustomNpcs] (Custom-NPCs-Mod-1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	PTRModelLib{1.0.0} [PTRModelLib] (Decocraft-2.4.2_1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	props{2.4.2} [Decocraft] (Decocraft-2.4.2_1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	Drinkcraft{v1.0} [Drinkcraft] (DrinkCraft Mod v1.0.zip) 
+	UCHIJAAAAAAAAAAAAAAAA	DynamicLights{1.3.5} [Dynamic Lights] (DynamicLights-1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	DynamicLights_onFire{1.0.4} [Dynamic Lights Burning Entity Module] (DynamicLights-1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	DynamicLights_creepers{1.0.4} [Dynamic Lights Creeper Module] (DynamicLights-1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	DynamicLights_dropItems{1.0.7} [Dynamic Lights EntityItem Module] (DynamicLights-1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	DynamicLights_entityClasses{1.0.1} [Dynamic Lights Entity Light Module] (DynamicLights-1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	DynamicLights_mobEquipment{1.0.5} [Dynamic Lights Mob Equipment Light Module] (DynamicLights-1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	DynamicLights_flameArrows{1.0.0} [Dynamic Lights Fiery Arrows Light Module] (DynamicLights-1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	DynamicLights_floodLights{1.0.1} [Dynamic Lights Flood Light] (DynamicLights-1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	DynamicLights_otherPlayers{1.0.7} [Dynamic Lights OtherPlayers Light Module] (DynamicLights-1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	DynamicLights_thePlayer{1.1.3} [Dynamic Lights Player Light Module] (DynamicLights-1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	etfuturum{1.5.5} [Et Futurum] (Et_Futurum_1.5.5.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	fantastic{1.0.0} [Fantastic Fish] (Fantastic-Fish-Mod-1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	flashlight{�{version}} [Flashlight Mod] (Flashlight_1.7.10_1.0.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	ftfragileglass{1.7.10-1.8} [Fragile Glass and Thin Ice] (Fragile Glass and Thin Ice-1.7.10-1.8.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	FreezeCam{4.1} [FreezeCam] (FreezeCam_1.7.10_4.1.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	hidenames{1.1.7} [Hide Names] (Hide Names-1.7.10-1.1.8.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	iChunUtil{4.2.3} [iChunUtil] (iChunUtil-4.2.3.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	TeNNoX_KeyAndCodeLock{1.4} [KeyAndCodeLock] (KeyAndCodeLock_1.7.10_1.4.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	malisiscore{1.7.10-0.14.3} [MalisisCore] (malisiscore-1.7.10-0.14.3.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	malisisdoors{1.7.10-1.13.2} [Malisis' Doors] (malisisdoors-1.7.10-1.13.2.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	metachanger{0.2.0} [MetaChanger] (metachanger-0.2.0.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	BridgeRails{3.0.0} [Rail Bridges] (Rail Bridges.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	randomadditions{0.9} [RandomAdditions] (random-additions-mod-1.7.10_67a2b.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	corerm{1.0c} [RikMuld's Core] (RikMuldsCore_1.0c.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	thecoloredblocksmod{v1.3} [thecoloredblocksmod] (The_Colored_Blocks_Mod_1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAAAA	camping{2.1g} [The Camping Mod 2] (TheCampingMod_2.1g.jar) 
+	GL info: ~~ERROR~~ RuntimeException: No OpenGL context found in the current thread.
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	Player Count: 1 / 8; [EntityPlayerMP['_couxel_'/773, l='temp', x=59.19, y=74.00, z=-138.51]]
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	OptiFine Version: OptiFine_1.7.10_HD_U_D3
+	Render Distance Chunks: 2
+	Mipmaps: 4
+	Anisotropic Filtering: 1
+	Antialiasing: 0
+	Multitexture: false
+	OpenGlVersion: 4.6.0 - Build 32.0.101.6129
+	OpenGlRenderer: Intel(R) UHD Graphics
+	OpenGlVendor: Intel
+	CpuCount: 16

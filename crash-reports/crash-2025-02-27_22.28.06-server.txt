@@ -1,0 +1,101 @@
+---- Minecraft Crash Report ----
+// Why did you do that?
+
+Time: 2/27/25 10:28 PM
+Description: Exception in server tick loop
+
+java.lang.OutOfMemoryError: GC overhead limit exceeded
+	at java.util.HashMap.newNode(HashMap.java:1734)
+	at java.util.HashMap.putVal(HashMap.java:630)
+	at java.util.HashMap.put(HashMap.java:611)
+	at net.minecraft.nbt.NBTTagCompound.func_74768_a(NBTTagCompound.java:85)
+	at net.minecraft.tileentity.TileEntity.func_145841_b(TileEntity.java:86)
+	at com.carpentersblocks.tileentity.TEBase.func_145841_b(TEBase.java:111)
+	at net.minecraft.world.chunk.storage.AnvilChunkLoader.func_75820_a(AnvilChunkLoader.java:370)
+	at net.minecraft.world.chunk.storage.AnvilChunkLoader.func_75816_a(AnvilChunkLoader.java:197)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73242_b(ChunkProviderServer.java:256)
+	at net.minecraft.world.gen.ChunkProviderServer.func_73151_a(ChunkProviderServer.java:302)
+	at net.minecraft.world.WorldServer.func_73044_a(WorldServer.java:809)
+	at net.minecraft.server.MinecraftServer.func_71267_a(MinecraftServer.java:318)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:569)
+	at net.minecraft.server.integrated.IntegratedServer.func_71217_p(IntegratedServer.java:186)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:427)
+	at net.minecraft.server.MinecraftServer$2.run(MinecraftServer.java:685)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_51, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 322372192 bytes (307 MB) / 3977773056 bytes (3793 MB) up to 3977773056 bytes (3793 MB)
+	JVM Flags: 3 total; -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xmx4096m -Xms256m
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v9.05 FML v7.10.99.99 Minecraft Forge 10.13.4.1614 Optifine OptiFine_1.7.10_HD_U_D3 45 mods loaded, 45 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UCHIJAAAAAAAAAAAAAA	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) 
+	UCHIJAAAAAAAAAAAAAA	FML{7.10.99.99} [Forge Mod Loader] (forge-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAA	Forge{10.13.4.1614} [Minecraft Forge] (forge-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAA	PlayerAPI{1.4} [Player API] (minecraft.jar) 
+	UCHIJAAAAAAAAAAAAAA	RenderPlayerAPI{1.0} [Render Player API] (minecraft.jar) 
+	UCHIJAAAAAAAAAAAAAA	TooManyItems{1.7.10} [TooManyItems] (minecraft.jar) 
+	UCHIJAAAAAAAAAAAAAA	securitycraft{v1.8.1} [SecurityCraft] ([1.7.10] SecurityCraft v1.8.1.jar) 
+	UCHIJAAAAAAAAAAAAAA	cubic_core{1.0.0} [CubicCore] (CubicCore[v1.0.0].jar) 
+	UCHIJAAAAAAAAAAAAAA	hnm{1.0.5B} [NeighborCraft] ([1.7]NeighborCraft[1.0.5B].jar) 
+	UCHIJAAAAAAAAAAAAAA	AnimationAPI{1.2.4} [AnimationAPI] (AnimationAPI-1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAA	ArchitectureCraft{1.7.2} [ArchitectureCraft] (ArchitectureCraft-1.7.2-mc1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAA	BiblioCraft{1.11.7} [BiblioCraft] (BiblioCraft[v1.11.7][MC1.7.10].jar) 
+	UCHIJAAAAAAAAAAAAAA	binocular{1.2} [Binocular] (binocular_1.7.10_1.2.jar) 
+	UCHIJAAAAAAAAAAAAAA	CarpentersBlocks{3.3.8.2} [Carpenter's Blocks] (Carpenter's Blocks v3.3.8.2 - MC 1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAA	chisel{1.5.7} [Chisel] (Chisel-1.7.10-1.5.7.jar) 
+	UCHIJAAAAAAAAAAAAAA	customnpcs{1.7.10b} [CustomNpcs] (Custom-NPCs-Mod-1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAA	PTRModelLib{1.0.0} [PTRModelLib] (Decocraft-2.4.2_1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAA	props{2.4.2} [Decocraft] (Decocraft-2.4.2_1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAA	Drinkcraft{v1.0} [Drinkcraft] (DrinkCraft Mod v1.0.zip) 
+	UCHIJAAAAAAAAAAAAAA	DynamicLights{1.3.5} [Dynamic Lights] (DynamicLights-1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAA	DynamicLights_onFire{1.0.4} [Dynamic Lights Burning Entity Module] (DynamicLights-1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAA	DynamicLights_creepers{1.0.4} [Dynamic Lights Creeper Module] (DynamicLights-1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAA	DynamicLights_dropItems{1.0.7} [Dynamic Lights EntityItem Module] (DynamicLights-1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAA	DynamicLights_entityClasses{1.0.1} [Dynamic Lights Entity Light Module] (DynamicLights-1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAA	DynamicLights_mobEquipment{1.0.5} [Dynamic Lights Mob Equipment Light Module] (DynamicLights-1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAA	DynamicLights_flameArrows{1.0.0} [Dynamic Lights Fiery Arrows Light Module] (DynamicLights-1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAA	DynamicLights_floodLights{1.0.1} [Dynamic Lights Flood Light] (DynamicLights-1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAA	DynamicLights_otherPlayers{1.0.7} [Dynamic Lights OtherPlayers Light Module] (DynamicLights-1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAA	DynamicLights_thePlayer{1.1.3} [Dynamic Lights Player Light Module] (DynamicLights-1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAA	etfuturum{1.5.5} [Et Futurum] (Et_Futurum_1.5.5.jar) 
+	UCHIJAAAAAAAAAAAAAA	fantastic{1.0.0} [Fantastic Fish] (Fantastic-Fish-Mod-1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAA	flashlight{�{version}} [Flashlight Mod] (Flashlight_1.7.10_1.0.jar) 
+	UCHIJAAAAAAAAAAAAAA	ftfragileglass{1.7.10-1.8} [Fragile Glass and Thin Ice] (Fragile Glass and Thin Ice-1.7.10-1.8.jar) 
+	UCHIJAAAAAAAAAAAAAA	FreezeCam{4.1} [FreezeCam] (FreezeCam_1.7.10_4.1.jar) 
+	UCHIJAAAAAAAAAAAAAA	hidenames{1.1.7} [Hide Names] (Hide Names-1.7.10-1.1.8.jar) 
+	UCHIJAAAAAAAAAAAAAA	iChunUtil{4.2.3} [iChunUtil] (iChunUtil-4.2.3.jar) 
+	UCHIJAAAAAAAAAAAAAA	TeNNoX_KeyAndCodeLock{1.4} [KeyAndCodeLock] (KeyAndCodeLock_1.7.10_1.4.jar) 
+	UCHIJAAAAAAAAAAAAAA	malisiscore{1.7.10-0.14.3} [MalisisCore] (malisiscore-1.7.10-0.14.3.jar) 
+	UCHIJAAAAAAAAAAAAAA	malisisdoors{1.7.10-1.13.2} [Malisis' Doors] (malisisdoors-1.7.10-1.13.2.jar) 
+	UCHIJAAAAAAAAAAAAAA	metachanger{0.2.0} [MetaChanger] (metachanger-0.2.0.jar) 
+	UCHIJAAAAAAAAAAAAAA	BridgeRails{3.0.0} [Rail Bridges] (Rail Bridges.jar) 
+	UCHIJAAAAAAAAAAAAAA	randomadditions{0.9} [RandomAdditions] (random-additions-mod-1.7.10_67a2b.jar) 
+	UCHIJAAAAAAAAAAAAAA	corerm{1.0c} [RikMuld's Core] (RikMuldsCore_1.0c.jar) 
+	UCHIJAAAAAAAAAAAAAA	thecoloredblocksmod{v1.3} [thecoloredblocksmod] (The_Colored_Blocks_Mod_1.7.10.jar) 
+	UCHIJAAAAAAAAAAAAAA	camping{2.1g} [The Camping Mod 2] (TheCampingMod_2.1g.jar) 
+	GL info: ~~ERROR~~ RuntimeException: No OpenGL context found in the current thread.
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	Player Count: 1 / 8; [EntityPlayerMP['_couxel_'/1136856, l='temp', x=44.50, y=89.19, z=-114.50]]
+	Type: Integrated Server (map_client.txt)
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	OptiFine Version: OptiFine_1.7.10_HD_U_D3
+	Render Distance Chunks: 2
+	Mipmaps: 4
+	Anisotropic Filtering: 1
+	Antialiasing: 0
+	Multitexture: false
+	OpenGlVersion: 4.6.0 - Build 32.0.101.6129
+	OpenGlRenderer: Intel(R) UHD Graphics
+	OpenGlVendor: Intel
+	CpuCount: 16

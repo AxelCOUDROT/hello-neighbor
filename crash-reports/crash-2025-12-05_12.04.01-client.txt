@@ -1,0 +1,175 @@
+---- Minecraft Crash Report ----
+// Don't do that.
+
+Time: 05/12/25 12:04
+Description: Rendering entity in world
+
+java.lang.IllegalStateException: Already tesselating!
+	at net.minecraft.client.renderer.Tessellator.func_78371_b(Tessellator.java:374)
+	at net.minecraft.client.renderer.Tessellator.func_78382_b(Tessellator.java:364)
+	at net.minecraft.client.renderer.entity.RenderPainting.func_77010_a(SourceFile:79)
+	at net.minecraft.client.renderer.entity.RenderPainting.func_76986_a(SourceFile:29)
+	at net.minecraft.client.renderer.entity.RenderPainting.func_76986_a(SourceFile:13)
+	at net.minecraft.client.renderer.entity.RenderManager.func_147939_a(RenderManager.java:293)
+	at net.minecraft.client.renderer.entity.RenderManager.func_147936_a(RenderManager.java:271)
+	at net.minecraft.client.renderer.entity.RenderManager.func_147937_a(RenderManager.java:244)
+	at net.minecraft.client.renderer.RenderGlobal.func_147589_a(RenderGlobal.java:716)
+	at net.minecraft.client.renderer.EntityRenderer.func_78471_a(EntityRenderer.java:1596)
+	at net.minecraft.client.renderer.EntityRenderer.func_78480_b(EntityRenderer.java:1334)
+	at net.minecraft.client.Minecraft.func_71411_J(Minecraft.java:1001)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:898)
+	at net.minecraft.client.main.Main.main(SourceFile:148)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at net.minecraft.client.renderer.Tessellator.func_78371_b(Tessellator.java:374)
+	at net.minecraft.client.renderer.Tessellator.func_78382_b(Tessellator.java:364)
+	at net.minecraft.client.renderer.entity.RenderPainting.func_77010_a(SourceFile:79)
+	at net.minecraft.client.renderer.entity.RenderPainting.func_76986_a(SourceFile:29)
+	at net.minecraft.client.renderer.entity.RenderPainting.func_76986_a(SourceFile:13)
+
+-- Entity being rendered --
+Details:
+	Entity Type: Painting (net.minecraft.entity.item.EntityPainting)
+	Entity ID: 60
+	Entity Name: Painting
+	Entity's Exact location: 45,94, 82,50, -103,50
+	Entity's Block location: World: (45,82,-104), Chunk: (at 13,5,8 in 2,-7; contains blocks 32,0,-112 to 47,255,-97), Region: (0,-1; contains chunks 0,-32 to 31,-1, blocks 0,0,-512 to 511,255,-1)
+	Entity's Momentum: 0,00, 0,00, 0,00
+
+-- Renderer details --
+Details:
+	Assigned renderer: net.minecraft.client.renderer.entity.RenderPainting@75769c57
+	Location: -18,93,6,88,-12,89 - World: (-19,6,-13), Chunk: (at 13,0,3 in -2,-1; contains blocks -32,0,-16 to -17,255,-1), Region: (-1,-1; contains chunks -32,-32 to -1,-1, blocks -512,0,-512 to -1,255,-1)
+	Rotation: 90.0
+	Delta: 0.37188685
+Stacktrace:
+	at net.minecraft.client.renderer.entity.RenderManager.func_147939_a(RenderManager.java:293)
+	at net.minecraft.client.renderer.entity.RenderManager.func_147936_a(RenderManager.java:271)
+	at net.minecraft.client.renderer.entity.RenderManager.func_147937_a(RenderManager.java:244)
+	at net.minecraft.client.renderer.RenderGlobal.func_147589_a(RenderGlobal.java:716)
+	at net.minecraft.client.renderer.EntityRenderer.func_78471_a(EntityRenderer.java:1596)
+
+-- Affected level --
+Details:
+	Level name: MpServer
+	All players: 1 total; [EntityClientPlayerMP['couxel_ytb'/87, l='MpServer', x=64,87, y=75,62, z=-90,61]]
+	Chunk stats: MultiplayerChunkCache: 441, 441
+	Level seed: 0
+	Level generator: ID 01 - flat, ver 0. Features enabled: false
+	Level generator options: 
+	Level spawn location: World: (61,4,-145), Chunk: (at 13,0,15 in 3,-10; contains blocks 48,0,-160 to 63,255,-145), Region: (0,-1; contains chunks 0,-32 to 31,-1, blocks 0,0,-512 to 511,255,-1)
+	Level time: 4727101 game time, 1000 day time
+	Level dimension: 0
+	Level storage version: 0x00000 - Unknown?
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+	Forced entities: 44 total; [EntityClientPlayerMP['couxel_ytb'/87, l='MpServer', x=64,87, y=75,62, z=-90,61], EntityItem['item.item.frame'/65, l='MpServer', x=60,63, y=74,13, z=-128,25], EntityItem['item.tile.beacon'/66, l='MpServer', x=60,63, y=75,13, z=-129,13], EntityItem['item.item.frame'/67, l='MpServer', x=62,53, y=75,13, z=-129,19], EntityItem['item.tile.beacon'/68, l='MpServer', x=61,81, y=74,13, z=-128,25], EntityItem['item.item.painting'/69, l='MpServer', x=62,06, y=74,13, z=-114,03], EntityItem['item.item.painting'/70, l='MpServer', x=49,80, y=74,13, z=-118,66], EntityItem['item.item.painting'/71, l='MpServer', x=56,19, y=74,13, z=-116,91], EntityItem['item.item.frame'/72, l='MpServer', x=50,22, y=74,13, z=-116,27], EntityItem['item.item.painting'/73, l='MpServer', x=52,75, y=74,13, z=-112,28], EntityItem['item.item.painting'/74, l='MpServer', x=53,94, y=74,13, z=-115,38], EntityItem['item.item.painting'/75, l='MpServer', x=55,38, y=74,13, z=-116,00], EntityItem['item.item.painting'/76, l='MpServer', x=62,81, y=74,13, z=-115,84], EntityItem['item.item.painting'/77, l='MpServer', x=48,16, y=74,13, z=-99,88], EntityMinecartEmpty['entity.MinecartRideable.name'/79, l='MpServer', x=65,88, y=74,34, z=-91,59], EntityPainting['Painting'/60, l='MpServer', x=45,94, y=82,50, z=-103,50], EntityItem['item.item.painting'/25, l='MpServer', x=15,51, y=65,13, z=-122,63], EntityItem['item.item.painting'/31, l='MpServer', x=29,31, y=74,13, z=-110,79], EntityPig['Pig'/32, l='MpServer', x=30,91, y=74,00, z=-48,13], EntityItem['item.item.frame'/39, l='MpServer', x=38,44, y=74,13, z=-142,28], EntityItem['item.item.frame'/40, l='MpServer', x=38,97, y=75,13, z=-141,44], EntityItem['item.tile.beacon'/41, l='MpServer', x=38,09, y=74,13, z=-141,00], EntityItem['item.item.painting'/42, l='MpServer', x=39,29, y=74,13, z=-118,66], EntityItem['item.item.painting'/43, l='MpServer', x=39,25, y=74,13, z=-123,16], EntityItem['item.item.painting'/44, l='MpServer', x=47,63, y=74,13, z=-118,22], EntityItem['item.item.painting'/45, l='MpServer', x=37,16, y=74,13, z=-116,84], EntityItem['item.item.painting'/46, l='MpServer', x=40,28, y=75,13, z=-114,50], EntityItem['item.item.painting'/47, l='MpServer', x=39,59, y=74,13, z=-116,78], EntityItem['item.item.painting'/48, l='MpServer', x=41,31, y=74,13, z=-112,13], EntityItem['item.item.painting'/49, l='MpServer', x=43,97, y=74,13, z=-111,97], EntityItem['item.item.painting'/50, l='MpServer', x=39,78, y=75,13, z=-109,78], EntityItem['item.item.painting'/51, l='MpServer', x=36,25, y=74,04, z=-111,06], EntityItem['item.item.painting'/52, l='MpServer', x=47,65, y=75,04, z=-109,22], EntityItem['item.item.painting'/53, l='MpServer', x=32,47, y=75,13, z=-109,75], EntityItem['item.item.painting'/54, l='MpServer', x=45,03, y=74,13, z=-98,59], EntityItem['item.item.painting'/55, l='MpServer', x=42,13, y=81,13, z=-102,21], EntityItem['item.item.painting'/56, l='MpServer', x=46,88, y=74,13, z=-97,13], EntityItem['item.item.painting'/57, l='MpServer', x=46,97, y=74,13, z=-101,88], EntityItem['item.item.painting'/58, l='MpServer', x=45,66, y=81,13, z=-102,71], EntityItem['item.item.painting'/59, l='MpServer', x=44,78, y=74,13, z=-101,84], EntityPainting['Painting'/60, l='MpServer', x=45,94, y=82,50, z=-103,50], EntityItem['item.item.painting'/61, l='MpServer', x=37,41, y=74,13, z=-85,13], EntityItem['item.item.painting'/62, l='MpServer', x=36,09, y=74,13, z=-84,47], EntityItem['item.item.painting'/63, l='MpServer', x=40,19, y=74,13, z=-83,91]]
+	Retry entities: 0 total; []
+	Server brand: vanilla
+	Server type: Non-integrated multiplayer server
+Stacktrace:
+	at net.minecraft.client.multiplayer.WorldClient.func_72914_a(WorldClient.java:373)
+	at net.minecraft.client.Minecraft.func_71396_d(Minecraft.java:2444)
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:919)
+	at net.minecraft.client.main.Main.main(SourceFile:148)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_312, Temurin
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Temurin
+	Memory: 512981080 bytes (489 MB) / 2445803520 bytes (2332 MB) up to 7516192768 bytes (7168 MB)
+	JVM Flags: 2 total; -Xmx8064m -Xms256m
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP v9.05 FML v7.10.99.99 Minecraft Forge 10.13.4.1614 Optifine OptiFine_1.7.10_HD_U_D3 45 mods loaded, 45 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UCHIJA	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) 
+	UCHIJA	FML{7.10.99.99} [Forge Mod Loader] (forge-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UCHIJA	Forge{10.13.4.1614} [Minecraft Forge] (forge-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UCHIJA	PlayerAPI{1.4} [Player API] (minecraft.jar) 
+	UCHIJA	RenderPlayerAPI{1.0} [Render Player API] (minecraft.jar) 
+	UCHIJA	TooManyItems{1.7.10} [TooManyItems] (minecraft.jar) 
+	UCHIJA	securitycraft{v1.8.1} [SecurityCraft] ([1.7.10] SecurityCraft v1.8.1.jar) 
+	UCHIJA	cubic_core{1.0.0} [CubicCore] (CubicCore[v1.0.0].jar) 
+	UCHIJA	hnm{1.0.5B} [NeighborCraft] ([1.7]NeighborCraft[1.0.5B].jar) 
+	UCHIJA	AnimationAPI{1.2.4} [AnimationAPI] (AnimationAPI-1.7.10.jar) 
+	UCHIJA	ArchitectureCraft{1.7.2} [ArchitectureCraft] (ArchitectureCraft-1.7.2-mc1.7.10.jar) 
+	UCHIJA	BiblioCraft{1.11.7} [BiblioCraft] (BiblioCraft[v1.11.7][MC1.7.10].jar) 
+	UCHIJA	binocular{1.2} [Binocular] (binocular_1.7.10_1.2.jar) 
+	UCHIJA	CarpentersBlocks{3.3.8.2} [Carpenter's Blocks] (Carpenter's Blocks v3.3.8.2 - MC 1.7.10.jar) 
+	UCHIJA	chisel{1.5.7} [Chisel] (Chisel-1.7.10-1.5.7.jar) 
+	UCHIJA	customnpcs{1.7.10b} [CustomNpcs] (Custom-NPCs-Mod-1.7.10.jar) 
+	UCHIJA	PTRModelLib{1.0.0} [PTRModelLib] (Decocraft-2.4.2_1.7.10.jar) 
+	UCHIJA	props{2.4.2} [Decocraft] (Decocraft-2.4.2_1.7.10.jar) 
+	UCHIJA	Drinkcraft{v1.0} [Drinkcraft] (DrinkCraft Mod v1.0.zip) 
+	UCHIJA	DynamicLights{1.3.5} [Dynamic Lights] (DynamicLights-1.7.10.jar) 
+	UCHIJA	DynamicLights_onFire{1.0.4} [Dynamic Lights Burning Entity Module] (DynamicLights-1.7.10.jar) 
+	UCHIJA	DynamicLights_creepers{1.0.4} [Dynamic Lights Creeper Module] (DynamicLights-1.7.10.jar) 
+	UCHIJA	DynamicLights_dropItems{1.0.7} [Dynamic Lights EntityItem Module] (DynamicLights-1.7.10.jar) 
+	UCHIJA	DynamicLights_entityClasses{1.0.1} [Dynamic Lights Entity Light Module] (DynamicLights-1.7.10.jar) 
+	UCHIJA	DynamicLights_mobEquipment{1.0.5} [Dynamic Lights Mob Equipment Light Module] (DynamicLights-1.7.10.jar) 
+	UCHIJA	DynamicLights_flameArrows{1.0.0} [Dynamic Lights Fiery Arrows Light Module] (DynamicLights-1.7.10.jar) 
+	UCHIJA	DynamicLights_floodLights{1.0.1} [Dynamic Lights Flood Light] (DynamicLights-1.7.10.jar) 
+	UCHIJA	DynamicLights_otherPlayers{1.0.7} [Dynamic Lights OtherPlayers Light Module] (DynamicLights-1.7.10.jar) 
+	UCHIJA	DynamicLights_thePlayer{1.1.3} [Dynamic Lights Player Light Module] (DynamicLights-1.7.10.jar) 
+	UCHIJA	etfuturum{1.5.5} [Et Futurum] (Et_Futurum_1.5.5.jar) 
+	UCHIJA	fantastic{1.0.0} [Fantastic Fish] (Fantastic-Fish-Mod-1.7.10.jar) 
+	UCHIJA	flashlight{�{version}} [Flashlight Mod] (Flashlight_1.7.10_1.0.jar) 
+	UCHIJA	ftfragileglass{1.7.10-1.8} [Fragile Glass and Thin Ice] (Fragile Glass and Thin Ice-1.7.10-1.8.jar) 
+	UCHIJA	FreezeCam{4.1} [FreezeCam] (FreezeCam_1.7.10_4.1.jar) 
+	UCHIJA	hidenames{1.1.7} [Hide Names] (Hide Names-1.7.10-1.1.8.jar) 
+	UCHIJA	iChunUtil{4.2.3} [iChunUtil] (iChunUtil-4.2.3.jar) 
+	UCHIJA	TeNNoX_KeyAndCodeLock{1.4} [KeyAndCodeLock] (KeyAndCodeLock_1.7.10_1.4.jar) 
+	UCHIJA	malisiscore{1.7.10-0.14.3} [MalisisCore] (malisiscore-1.7.10-0.14.3.jar) 
+	UCHIJA	malisisdoors{1.7.10-1.13.2} [Malisis' Doors] (malisisdoors-1.7.10-1.13.2.jar) 
+	UCHIJA	metachanger{0.2.0} [MetaChanger] (metachanger-0.2.0.jar) 
+	UCHIJA	BridgeRails{3.0.0} [Rail Bridges] (Rail Bridges.jar) 
+	UCHIJA	randomadditions{0.9} [RandomAdditions] (random-additions-mod-1.7.10_67a2b.jar) 
+	UCHIJA	corerm{1.0c} [RikMuld's Core] (RikMuldsCore_1.0c.jar) 
+	UCHIJA	thecoloredblocksmod{v1.3} [thecoloredblocksmod] (The_Colored_Blocks_Mod_1.7.10.jar) 
+	UCHIJA	camping{2.1g} [The Camping Mod 2] (TheCampingMod_2.1g.jar) 
+	GL info: ' Vendor: 'Intel' Version: '4.6.0 - Build 32.0.101.7080' Renderer: 'Intel(R) UHD Graphics'
+	Launched Version: forge-10.13.4.1614
+	LWJGL: 2.9.1
+	OpenGL: Intel(R) UHD Graphics GL version 4.6.0 - Build 32.0.101.7080, Intel
+	GL Caps: Using GL 1.3 multitexturing.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Anisotropic filtering is supported and maximum anisotropy is 16.
+Shaders are available because OpenGL 2.1 is supported.
+
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Resource Packs: [Hello Neighbor]
+	Current Language: English (US)
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	Anisotropic Filtering: Off (1)
+	OptiFine Version: OptiFine_1.7.10_HD_U_D3
+	Render Distance Chunks: 2
+	Mipmaps: 4
+	Anisotropic Filtering: 1
+	Antialiasing: 0
+	Multitexture: false
+	OpenGlVersion: 4.6.0 - Build 32.0.101.7080
+	OpenGlRenderer: Intel(R) UHD Graphics
+	OpenGlVendor: Intel
+	CpuCount: 16
