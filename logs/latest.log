@@ -1,0 +1,373 @@
+[21:59:56] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:59:56] [main/INFO]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[21:59:56] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[21:59:57] [main/INFO]: Forge Mod Loader version 7.99.40.1614 for Minecraft 1.7.10 loading
+[21:59:57] [main/INFO]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_312, running on Windows 10:amd64:10.0, installed at S:\curseforge\minecraft\Install\java\jre-legacy
+[21:59:57] [main/INFO]: Loading tweaker me.guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps_1.0.1.jar
+[21:59:57] [main/WARN]: The coremod atomicstryker.dynamiclights.common.DLFMLCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[21:59:57] [main/WARN]: The coremod net.malisis.core.asm.MalisisCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[21:59:57] [main/INFO]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.7.10_HD_U_D3.jar
+[21:59:57] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:59:57] [main/INFO]: Loading tweak class name me.guichaguri.betterfps.tweaker.BetterFpsTweaker
+[21:59:57] [main/INFO]: Loading tweak class name optifine.OptiFineForgeTweaker
+[21:59:57] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[21:59:57] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:59:57] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLInjectionAndSortingTweaker
+[21:59:57] [main/INFO]: Calling tweak class optifine.OptiFineForgeTweaker
+[21:59:57] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:49]: OptiFineForgeTweaker: acceptOptions
+[21:59:57] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:49]: OptiFineForgeTweaker: injectIntoClassLoader
+[21:59:57] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:275]: OptiFine ClassTransformer
+[21:59:57] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:275]: OptiFine URL: file:/S:/curseforge/minecraft/Instances/HelloNeighbor%20origin/mods/OptiFine_1.7.10_HD_U_D3.jar
+[21:59:57] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:275]: OptiFine ZIP file: S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\OptiFine_1.7.10_HD_U_D3.jar
+[21:59:57] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:275]: OptiFine Version: OptiFine_1.7.10_HD_U_D3
+[21:59:57] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:275]: Minecraft Version: 1.7.10
+[21:59:57] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:59:58] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[21:59:58] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[21:59:58] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:59:58] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:59:58] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:59:58] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:59:58] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:59:58] [main/INFO]: Calling tweak class me.guichaguri.betterfps.tweaker.BetterFpsTweaker
+[21:59:58] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.FMLDeobfTweaker
+[21:59:58] [main/INFO]: Calling tweak class cpw.mods.fml.relauncher.CoreModManager$FMLPluginWrapper
+[21:59:58] [main/INFO]: [ChunkCollisionTransformer] Hook registered for net.minecraft.world.World
+[21:59:58] [main/INFO]: [ChunkCollisionTransformer] Hook registered for net.minecraft.world.World
+[21:59:58] [main/INFO]: [ChunkCollisionTransformer] Hook registered for net.minecraft.item.ItemBlock
+[21:59:58] [main/INFO]: [ChunkCollisionTransformer] Hook registered for net.minecraft.network.NetHandlerPlayServer
+[21:59:58] [main/INFO]: [ChunkBlockTransformer] Hook registered for net.minecraft.world.chunk.Chunk
+[21:59:58] [main/INFO]: Loading tweak class name cpw.mods.fml.common.launcher.TerminalTweaker
+[21:59:58] [main/INFO]: Calling tweak class cpw.mods.fml.common.launcher.TerminalTweaker
+[21:59:58] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:49]: OptiFineForgeTweaker: getLaunchArguments
+[21:59:58] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[21:59:58] [main/INFO]: Patching Game Start...
+[21:59:59] [main/INFO]: [atomicstryker.dynamiclights.common.DLTransformer:handleWorldTransform:70]: **************** Dynamic Lights transform running on World, obf: true *********************** 
+[21:59:59] [main/INFO]: [atomicstryker.dynamiclights.common.DLTransformer:handleWorldTransform:83]: In target method! Patching!
+[21:59:59] [main/INFO]: [atomicstryker.dynamiclights.common.DLTransformer:handleWorldTransform:106]: Bytecode ISTORE 6 case!
+[21:59:59] [main/INFO]: [atomicstryker.dynamiclights.common.DLTransformer:handleWorldTransform:144]: Patching Complete!
+[21:59:59] [main/INFO]: Found hooks for net.minecraft.world.World (ahb)
+[21:59:59] [main/INFO]: [TMIForgeTransformer:transform:18]: [TMI] Rewriting class bex / net.minecraft.client.gui.inventory.GuiContainer
+[22:00:00] [main/INFO]: Setting user: couxel_ytb
+[22:00:01] [main/INFO]: Found hooks for net.minecraft.item.ItemBlock (abh)
+[22:00:01] [main/INFO]: Patching Minecraft using Riven's "Half" Algorithm
+[22:00:02] [Client thread/INFO]: Patching Key Event...
+[22:00:02] [Client thread/INFO]: Found hooks for net.minecraft.network.NetHandlerPlayServer (nh)
+[22:00:02] [Client thread/INFO]: Found hooks for net.minecraft.world.chunk.Chunk (apx)
+[22:00:02] [Client thread/INFO]: LWJGL Version: 2.9.1
+[22:00:04] [Client thread/INFO]: Forge Mod Loader has detected optifine OptiFine_1.7.10_HD_U_D3, enabling compatibility features
+[22:00:05] [Client thread/INFO]: [cpw.mods.fml.client.SplashProgress:start:188]: ---- Minecraft Crash Report ----
+// I let you down. Sorry :(
+
+Time: 09/12/25 22:00
+Description: Loading screen debug info
+
+This is just a prompt for computer specs to be printed. THIS IS NOT A ERROR
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_312, Temurin
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Temurin
+	Memory: 309227112 bytes (294 MB) / 581435392 bytes (554 MB) up to 7516192768 bytes (7168 MB)
+	JVM Flags: 2 total; -Xmx8064m -Xms256m
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	GL info: ' Vendor: 'Intel' Version: '4.6.0 - Build 32.0.101.7080' Renderer: 'Intel(R) UHD Graphics'
+[22:00:05] [Client thread/INFO]: Attempting early MinecraftForge initialization
+[22:00:05] [Client thread/INFO]: MinecraftForge v10.13.4.1614 Initialized
+[22:00:05] [Client thread/INFO]: Replaced 183 ore recipies
+[22:00:05] [Client thread/INFO]: Completed early MinecraftForge initialization
+[22:00:05] [Client thread/ERROR]: Unable to determine registrant mod for TooManyItems. This is a critical error and should be impossible
+java.lang.Throwable
+	at cpw.mods.fml.common.eventhandler.EventBus.register(EventBus.java:55) [EventBus.class:?]
+	at TMIForgeContainer.<init>(TMIForgeContainer.java:35) [TMIForgeContainer.class:?]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) [?:1.8.0_312]
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62) [?:1.8.0_312]
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) [?:1.8.0_312]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423) [?:1.8.0_312]
+	at java.lang.Class.newInstance(Class.java:442) [?:1.8.0_312]
+	at cpw.mods.fml.common.Loader.identifyMods(Loader.java:340) [Loader.class:?]
+	at cpw.mods.fml.common.Loader.loadMods(Loader.java:489) [Loader.class:?]
+	at cpw.mods.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:208) [FMLClientHandler.class:?]
+	at net.minecraft.client.Minecraft.func_71384_a(Minecraft.java:480) [bao.class:?]
+	at net.minecraft.client.Minecraft.func_99999_d(Minecraft.java:878) [bao.class:?]
+	at net.minecraft.client.main.Main.main(SourceFile:148) [Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_312]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_312]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_312]
+	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_312]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[22:00:05] [Client thread/INFO]: Found 0 mods from the command line. Injecting into mod discoverer
+[22:00:05] [Client thread/INFO]: Searching S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods for mods
+[22:00:14] [Client thread/INFO]: Attempting to reparse the mod container [1.7.10] SecurityCraft v1.8.1.jar
+[22:00:15] [Client thread/INFO]: Attempting to reparse the mod container FreezeCam_1.7.10_4.1.jar
+[22:00:16] [Client thread/INFO]: Mod thecoloredblocksmod is missing the required element 'name'. Substituting thecoloredblocksmod
+[22:00:16] [Client thread/INFO]: Attempting to reparse the mod container The_Colored_Blocks_Mod_1.7.10.jar
+[22:00:16] [Client thread/INFO]: Mod thecoloredblocksmod is missing the required element 'name'. Substituting thecoloredblocksmod
+[22:00:16] [Client thread/INFO]: Forge Mod Loader has identified 47 mods to load
+[22:00:17] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, PlayerAPI, RenderPlayerAPI, TooManyItems, securitycraft, hnm, AnimationAPI, ArchitectureCraft, BiblioCraft, binocular, CarpentersBlocks, chisel, cubic_core, customnpcs, PTRModelLib, props, Drinkcraft, DynamicLights, DynamicLights_onFire, DynamicLights_creepers, DynamicLights_dropItems, DynamicLights_entityClasses, DynamicLights_mobEquipment, DynamicLights_flameArrows, DynamicLights_floodLights, DynamicLights_otherPlayers, DynamicLights_thePlayer, etfuturum, fantastic, flashlight, ftfragileglass, FreezeCam, hidenames, iChunUtil, TeNNoX_KeyAndCodeLock, LunatriusCore, malisiscore, malisisdoors, metachanger, BridgeRails, randomadditions, corerm, Schematica, thecoloredblocksmod, camping] at CLIENT
+[22:00:17] [Client thread/INFO]: Attempting connection with missing mods [mcp, FML, Forge, PlayerAPI, RenderPlayerAPI, TooManyItems, securitycraft, hnm, AnimationAPI, ArchitectureCraft, BiblioCraft, binocular, CarpentersBlocks, chisel, cubic_core, customnpcs, PTRModelLib, props, Drinkcraft, DynamicLights, DynamicLights_onFire, DynamicLights_creepers, DynamicLights_dropItems, DynamicLights_entityClasses, DynamicLights_mobEquipment, DynamicLights_flameArrows, DynamicLights_floodLights, DynamicLights_otherPlayers, DynamicLights_thePlayer, etfuturum, fantastic, flashlight, ftfragileglass, FreezeCam, hidenames, iChunUtil, TeNNoX_KeyAndCodeLock, LunatriusCore, malisiscore, malisisdoors, metachanger, BridgeRails, randomadditions, corerm, Schematica, thecoloredblocksmod, camping] at SERVER
+[22:00:21] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:SecurityCraft, FMLFileResourcePack:NeighborCraft, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:ArchitectureCraft, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:Binocular, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:Chisel, FMLFileResourcePack:CubicCore, FMLFileResourcePack:CustomNpcs, FMLFileResourcePack:PTRModelLib, FMLFileResourcePack:Decocraft, FMLFileResourcePack:Drinkcraft, FMLFileResourcePack:Dynamic Lights, FMLFileResourcePack:Dynamic Lights Burning Entity Module, FMLFileResourcePack:Dynamic Lights Creeper Module, FMLFileResourcePack:Dynamic Lights EntityItem Module, FMLFileResourcePack:Dynamic Lights Entity Light Module, FMLFileResourcePack:Dynamic Lights Mob Equipment Light Module, FMLFileResourcePack:Dynamic Lights Fiery Arrows Light Module, FMLFileResourcePack:Dynamic Lights Flood Light, FMLFileResourcePack:Dynamic Lights OtherPlayers Light Module, FMLFileResourcePack:Dynamic Lights Player Light Module, FMLFileResourcePack:Et Futurum, FMLFileResourcePack:Fantastic Fish, FMLFileResourcePack:Flashlight Mod, FMLFileResourcePack:Fragile Glass and Thin Ice, FMLFileResourcePack:FreezeCam, FMLFileResourcePack:Hide Names, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:KeyAndCodeLock, FMLFileResourcePack:LunatriusCore, FMLFileResourcePack:MalisisCore, FMLFileResourcePack:Malisis' Doors, FMLFileResourcePack:MetaChanger, FMLFileResourcePack:Rail Bridges, FMLFileResourcePack:RandomAdditions, FMLFileResourcePack:RikMuld's Core, FMLFileResourcePack:Schematica, FMLFileResourcePack:thecoloredblocksmod, FMLFileResourcePack:The Camping Mod 2, Hello Neighbor
+[22:00:21] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: Drinkcraft in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:00:21] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: Drinkcraft in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:00:21] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: Drinkcraft in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:00:21] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: Drinkcraft in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:00:21] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: Drinkcraft in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:00:21] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: Drinkcraft in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:00:21] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MinecraftDonaldMod in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:00:21] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MinecraftDonaldMod in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:00:21] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MinecraftDonaldMod in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:00:21] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MinecraftDonaldMod in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:00:21] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MinecraftDonaldMod in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:00:21] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MinecraftDonaldMod in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:00:21] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MinecraftDonalds in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:00:21] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MinecraftDonalds in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:00:21] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MinecraftDonalds in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:00:21] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MinecraftDonalds in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:00:21] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MinecraftDonalds in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:00:21] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MinecraftDonalds in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:00:21] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: TestEnvironmentMod in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:00:21] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: TestEnvironmentMod in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:00:21] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: TestEnvironmentMod in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:00:21] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: TestEnvironmentMod in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:00:21] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: TestEnvironmentMod in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:00:21] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: TestEnvironmentMod in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:00:21] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: TestEnvironmentMod in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:00:21] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: TestEnvironmentMod in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:00:21] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: OceanMonument.txt in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\Et_Futurum_1.5.5.jar
+[22:00:21] [Client thread/INFO]: Processing ObjectHolder annotations
+[22:00:21] [Client thread/INFO]: Found 341 ObjectHolder annotations
+[22:00:21] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[22:00:21] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[22:00:21] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[22:00:21] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+[22:00:21] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.gson.Gson.fromJson(Gson.java:815)
+[22:00:21] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.gson.Gson.fromJson(Gson.java:768)
+[22:00:21] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.gson.Gson.fromJson(Gson.java:717)
+[22:00:21] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.gson.Gson.fromJson(Gson.java:689)
+[22:00:21] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at net.minecraftforge.common.ForgeVersion$1.run(ForgeVersion.java:94)
+[22:00:21] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+[22:00:21] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:374)
+[22:00:21] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183)
+[22:00:21] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145)
+[22:00:21] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.google.gson.Gson.fromJson(Gson.java:803)
+[22:00:21] [Forge Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	... 4 more
+[22:00:22] [Client thread/INFO]: [com.cubic_control.hnm.Main.MainRegistry:Preload:39]: [NeighborCraft]: CubicCore Loaded! Let The Fun Begin!
+[22:00:24] [Client thread/INFO]: [net.hegedus.binocular.Binocular:preInit:59]: PRE-INIT START --------
+[22:00:24] [Client thread/INFO]: [net.hegedus.binocular.Binocular:preInit:83]: PRE-INIT END --------
+[22:00:24] [Client thread/INFO]: Designs found: Bed(6), Chisel(9), FlowerPot(18), Tile(13)
+[22:00:27] [Client thread/INFO]: [noppes.npcs.controllers.ScriptController:<init>:59]: Script Engings Available:
+[22:00:27] [Client thread/INFO]: [noppes.npcs.controllers.ScriptController:<init>:65]: Scala: .scala
+[22:00:51] [Client thread/INFO]: Total mipmap : 3897 ms
+[22:00:53] [Client thread/INFO]: Registering CloseInventoryMessage for Packet with discriminator 1 in channel malisiscore
+[22:00:53] [Client thread/INFO]: Registering InventoryActionMessage for Packet with discriminator 2 in channel malisiscore
+[22:00:53] [Client thread/INFO]: Registering OpenInventoryMessage for Packet with discriminator 3 in channel malisiscore
+[22:00:53] [Client thread/INFO]: Registering UpdateInventorySlotsMessage for Packet with discriminator 4 in channel malisiscore
+[22:00:53] [Client thread/INFO]: Registering ChunkBlockMessage for Packet with discriminator 5 in channel malisiscore
+[22:00:53] [Client thread/INFO]: Registering SyncerMessage for Packet with discriminator 6 in channel malisiscore
+[22:00:53] [Client thread/INFO]: Registering DigicodeMessage for Packet with discriminator 1 in channel malisisdoors
+[22:00:53] [Client thread/INFO]: Registering DoorFactoryMessage for Packet with discriminator 2 in channel malisisdoors
+[22:00:53] [Client thread/INFO]: Registering VanishingDiamondFrameMessage for Packet with discriminator 3 in channel malisisdoors
+[22:00:53] [iChunUtil Patron Getter Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.io.FileNotFoundException: https://raw.githubusercontent.com/iChun/iChunUtil/master/src/main/resources/assets/ichunutil/mod/patrons.json
+[22:00:53] [iChunUtil Patron Getter Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1893)
+[22:00:53] [iChunUtil Patron Getter Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92)
+[22:00:53] [iChunUtil Patron Getter Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1487)
+[22:00:53] [iChunUtil Patron Getter Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1485)
+[22:00:53] [iChunUtil Patron Getter Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.security.AccessController.doPrivileged(Native Method)
+[22:00:53] [iChunUtil Patron Getter Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
+[22:00:53] [iChunUtil Patron Getter Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1484)
+[22:00:53] [iChunUtil Patron Getter Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+[22:00:53] [iChunUtil Patron Getter Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.net.URL.openStream(URL.java:1093)
+[22:00:53] [iChunUtil Patron Getter Thread/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at ichun.client.thread.ThreadGetPatrons.run(ThreadGetPatrons.java:30)
+[22:00:53] [Client thread/INFO]: Replaced ItemDoor by DoorItem in ShapedOreRecipe
+[22:00:53] [Client thread/INFO]: Replaced ItemDoor by DoorItem in ShapedRecipes
+[22:00:53] [Client thread/INFO]: Replaced ItemDoor by DoorItem in ShapedRecipes
+[22:00:53] [Client thread/INFO]: Replaced ItemDoor by DoorItem in StatCrafting
+[22:00:53] [Client thread/INFO]: Replaced ItemDoor by DoorItem in StatCrafting
+[22:00:53] [Client thread/INFO]: Replaced ItemDoor by DoorItem in ShapedOreRecipe
+[22:00:53] [Client thread/INFO]: Replaced ItemDoor by DoorItem in ShapedRecipes
+[22:00:53] [Client thread/INFO]: Replaced ItemDoor by DoorItem in StatCrafting
+[22:00:53] [Client thread/INFO]: Replaced ItemDoor by DoorItem in StatCrafting
+[22:00:55] [Client thread/INFO]: Applying holder lookups
+[22:00:55] [Client thread/INFO]: Holder lookups applied
+[22:00:55] [Client thread/INFO]: Injecting itemstacks
+[22:00:55] [Client thread/INFO]: Itemstack injection complete
+[22:00:55] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[22:00:55] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
+[22:00:55] [Thread-13/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
+[22:00:55] [Thread-13/INFO]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[22:00:55] [Thread-13/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
+[22:00:55] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[22:00:55] [Sound Library Loader/INFO]: Sound engine started
+[22:00:56] [Client thread/WARN]: File customnpcs:sounds/human/girl/villager/What do you need.ogg does not exist, cannot add it to event customnpcs:human.girl.villager.what_do_you_need
+[22:00:56] [Client thread/WARN]: File customnpcs:sounds/human/girl/villager/Would you like to trade.ogg does not exist, cannot add it to event customnpcs:human.girl.villager.trade
+[22:00:58] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[22:00:58] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.io.FileNotFoundException: https://raw.githubusercontent.com/cubic-control/CubicCore/master/src/main/resources/version_file.txt
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1893)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1487)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1485)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.security.AccessController.doPrivileged(Native Method)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1484)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.net.URL.openStream(URL.java:1093)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.cubic_control.cubic_core.Bases.VersionCheckerBase.run(VersionCheckerBase.java:27)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.Thread.run(Thread.java:748)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.lang.NullPointerException
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.Reader.<init>(Reader.java:78)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.InputStreamReader.<init>(InputStreamReader.java:113)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at org.apache.commons.io.IOUtils.readLines(IOUtils.java:986)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at org.apache.commons.io.IOUtils.readLines(IOUtils.java:968)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.cubic_control.cubic_core.Bases.VersionCheckerBase.run(VersionCheckerBase.java:35)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.Thread.run(Thread.java:748)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.io.FileNotFoundException: https://raw.githubusercontent.com/cubic-control/NeighborCraft/master/src/main/resources/version_file.txt
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1893)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1487)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1485)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.security.AccessController.doPrivileged(Native Method)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1484)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.net.URL.openStream(URL.java:1093)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.cubic_control.cubic_core.Bases.VersionCheckerBase.run(VersionCheckerBase.java:27)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.Thread.run(Thread.java:748)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.lang.NullPointerException
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.Reader.<init>(Reader.java:78)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.io.InputStreamReader.<init>(InputStreamReader.java:113)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at org.apache.commons.io.IOUtils.readLines(IOUtils.java:986)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at org.apache.commons.io.IOUtils.readLines(IOUtils.java:968)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at com.cubic_control.cubic_core.Bases.VersionCheckerBase.run(VersionCheckerBase.java:35)
+[22:00:59] [Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.lang.Thread.run(Thread.java:748)
+[22:00:59] [Client thread/INFO]: [net.hegedus.binocular.Binocular:init:88]: INIT START --------
+[22:00:59] [Client thread/WARN]: ****************************************
+[22:00:59] [Client thread/WARN]: * Illegal extra prefix binocular for name binocular:Binocular, invalid registry invocation/invalid name?
+[22:00:59] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameData.registerItem(GameData.java:809)
+[22:00:59] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerItem(GameRegistry.java:149)
+[22:00:59] [Client thread/WARN]: *  at cpw.mods.fml.common.registry.GameRegistry.registerItem(GameRegistry.java:137)
+[22:00:59] [Client thread/WARN]: *  at net.hegedus.binocular.Binocular.init(Binocular.java:90)
+[22:00:59] [Client thread/WARN]: *  at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:00:59] [Client thread/WARN]: *  at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)...
+[22:00:59] [Client thread/WARN]: ****************************************
+[22:00:59] [Client thread/INFO]: [net.hegedus.binocular.proxy.ClientProxy:registerRenderThings:45]: ClientProxy START --------
+[22:00:59] [Client thread/INFO]: [net.hegedus.binocular.proxy.ClientProxy:registerRenderThings:60]: ClientProxy END --------
+[22:00:59] [Client thread/INFO]: [net.hegedus.binocular.Binocular:init:99]: INIT END --------
+[22:00:59] [Client thread/INFO]: Optifine integration successful.
+[22:01:00] [Client thread/INFO]: [com.DSG.mc.FreezeCam.Utils.DSGUtils:initUtils:55]: [FreezeCam] Utils Init is completed
+[22:01:00] [Client thread/INFO]: [com.DSG.mc.FreezeCam.Utils.DSGUtils:initUtils:59]: [FreezeCam WARNING] EntityRenderer was overriden and can conflit with another mods !!!
+[22:01:00] [Client thread/INFO]: [com.tlf.HN.event.HNEventHandlerCPW:<init>:24]: HN Event Handler started on side CLIENT
+[22:01:00] [Client thread/INFO]: [com.creativemd.randomadditions.common.item.items.RandomItem:loadItems:96]: [RandomAdditions] Loaded RandomItems
+[22:01:00] [LunatriusCore Version Check/ERROR]: Something went wrong!
+java.lang.NullPointerException
+	at com.github.lunatrius.core.version.VersionChecker$1.run(VersionChecker.java:85) [VersionChecker$1.class:?]
+[22:01:00] [Client thread/INFO]: [com.creativemd.randomadditions.common.item.items.RandomItemDust:onRegister:32]: Found no ingot for Aluminum
+[22:01:00] [Client thread/INFO]: [com.creativemd.randomadditions.common.item.items.RandomItemDust:onRegister:32]: Found no ingot for Lead
+[22:01:00] [Client thread/INFO]: [com.creativemd.randomadditions.common.item.items.RandomItemDust:onRegister:32]: Found no ingot for Silver
+[22:01:00] [Client thread/INFO]: Injecting itemstacks
+[22:01:00] [Client thread/INFO]: Itemstack injection complete
+[22:01:00] [iChunUtil Mod Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: java.io.FileNotFoundException: https://raw.githubusercontent.com/iChun/iChunUtil/master/src/main/resources/assets/ichunutil/mod/versions.json
+[22:01:00] [iChunUtil Mod Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1893)
+[22:01:00] [iChunUtil Mod Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92)
+[22:01:00] [iChunUtil Mod Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1487)
+[22:01:00] [iChunUtil Mod Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1485)
+[22:01:00] [iChunUtil Mod Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.security.AccessController.doPrivileged(Native Method)
+[22:01:00] [iChunUtil Mod Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
+[22:01:00] [iChunUtil Mod Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1484)
+[22:01:00] [iChunUtil Mod Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+[22:01:00] [iChunUtil Mod Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at java.net.URL.openStream(URL.java:1093)
+[22:01:00] [iChunUtil Mod Version Check/INFO]: [java.lang.Throwable$WrappedPrintStream:println:749]: 	at ichun.common.core.updateChecker.ModVersionChecker$1.run(ModVersionChecker.java:47)
+[22:01:00] [Client thread/INFO]: [com.tlf.HN.common.HideNames:onModLoad:115]: Hide Names 1.1.7 loaded!
+[22:01:00] [Client thread/INFO]: Loading texture and data for Digital-7 Mono
+[22:01:00] [Client thread/INFO]:   Unknown recipe class! net.malisis.doors.recipe.BigDoorRecipe Modder please refer to net.minecraftforge.oredict.RecipeSorter
+[22:01:00] [Client thread/INFO]:   Unknown recipe class! com.creativemd.randomadditions.common.energy.producer.recipe.MillArmRecipe Modder please refer to net.minecraftforge.oredict.RecipeSorter
+[22:01:00] [Client thread/INFO]:   Unknown recipe class! com.creativemd.randomadditions.common.energy.producer.recipe.WatermillArmRecipe Modder please refer to net.minecraftforge.oredict.RecipeSorter
+[22:01:00] [Client thread/INFO]:   Unknown recipe class! com.creativemd.randomadditions.common.energy.producer.recipe.MillRecipe Modder please refer to net.minecraftforge.oredict.RecipeSorter
+[22:01:00] [Client thread/INFO]:   Unknown recipe class! com.creativemd.randomadditions.common.energy.producer.recipe.WatermillRecipe Modder please refer to net.minecraftforge.oredict.RecipeSorter
+[22:01:00] [Client thread/INFO]: Forge Mod Loader has successfully loaded 47 mods
+[22:01:00] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:SecurityCraft, FMLFileResourcePack:NeighborCraft, FMLFileResourcePack:AnimationAPI, FMLFileResourcePack:ArchitectureCraft, FMLFileResourcePack:BiblioCraft, FMLFileResourcePack:Binocular, FMLFileResourcePack:Carpenter's Blocks, FMLFileResourcePack:Chisel, FMLFileResourcePack:CubicCore, FMLFileResourcePack:CustomNpcs, FMLFileResourcePack:PTRModelLib, FMLFileResourcePack:Decocraft, FMLFileResourcePack:Drinkcraft, FMLFileResourcePack:Dynamic Lights, FMLFileResourcePack:Dynamic Lights Burning Entity Module, FMLFileResourcePack:Dynamic Lights Creeper Module, FMLFileResourcePack:Dynamic Lights EntityItem Module, FMLFileResourcePack:Dynamic Lights Entity Light Module, FMLFileResourcePack:Dynamic Lights Mob Equipment Light Module, FMLFileResourcePack:Dynamic Lights Fiery Arrows Light Module, FMLFileResourcePack:Dynamic Lights Flood Light, FMLFileResourcePack:Dynamic Lights OtherPlayers Light Module, FMLFileResourcePack:Dynamic Lights Player Light Module, FMLFileResourcePack:Et Futurum, FMLFileResourcePack:Fantastic Fish, FMLFileResourcePack:Flashlight Mod, FMLFileResourcePack:Fragile Glass and Thin Ice, FMLFileResourcePack:FreezeCam, FMLFileResourcePack:Hide Names, FMLFileResourcePack:iChunUtil, FMLFileResourcePack:KeyAndCodeLock, FMLFileResourcePack:LunatriusCore, FMLFileResourcePack:MalisisCore, FMLFileResourcePack:Malisis' Doors, FMLFileResourcePack:MetaChanger, FMLFileResourcePack:Rail Bridges, FMLFileResourcePack:RandomAdditions, FMLFileResourcePack:RikMuld's Core, FMLFileResourcePack:Schematica, FMLFileResourcePack:thecoloredblocksmod, FMLFileResourcePack:The Camping Mod 2, FMLFileResourcePack:Carpenter's Blocks Cached Resources, Hello Neighbor
+[22:01:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: Drinkcraft in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:01:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: Drinkcraft in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:01:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: Drinkcraft in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:01:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: Drinkcraft in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:01:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: Drinkcraft in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:01:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: Drinkcraft in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:01:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MinecraftDonaldMod in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:01:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MinecraftDonaldMod in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:01:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MinecraftDonaldMod in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:01:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MinecraftDonaldMod in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:01:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MinecraftDonaldMod in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:01:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MinecraftDonaldMod in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:01:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MinecraftDonalds in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:01:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MinecraftDonalds in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:01:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MinecraftDonalds in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:01:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MinecraftDonalds in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:01:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MinecraftDonalds in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:01:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: MinecraftDonalds in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:01:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: TestEnvironmentMod in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:01:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: TestEnvironmentMod in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:01:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: TestEnvironmentMod in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:01:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: TestEnvironmentMod in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:01:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: TestEnvironmentMod in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:01:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: TestEnvironmentMod in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:01:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: TestEnvironmentMod in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:01:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: TestEnvironmentMod in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\DrinkCraft Mod v1.0.zip
+[22:01:00] [Client thread/WARN]: ResourcePack: ignored non-lowercase namespace: OceanMonument.txt in S:\curseforge\minecraft\Instances\HelloNeighbor origin\mods\Et_Futurum_1.5.5.jar
+[22:01:06] [Client thread/INFO]: Total mipmap : 1898 ms
+[22:01:07] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/apple.png, java.io.FileNotFoundException
+[22:01:08] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_202_alarmLit.png, java.io.FileNotFoundException
+[22:01:09] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1013_BlockRAMachine.png, java.io.FileNotFoundException
+[22:01:10] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1010_BlockRACable.png, java.io.FileNotFoundException
+[22:01:10] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_702_null.png, java.io.FileNotFoundException
+[22:01:11] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/blocks/MISSING_ICON_BLOCK_1012_BlockRAProducer.png, java.io.FileNotFoundException
+[22:01:11] [Client thread/INFO]: textures/blocks: dropping miplevel from 4 to 3, because of minTexel: 8
+[22:01:12] [Client thread/INFO]: Created: 8192x4096 textures/blocks-atlas
+[22:01:13] [Client thread/ERROR]: Using missing texture, unable to load randomadditions:textures/items/aluminumDust.png, java.io.FileNotFoundException
+[22:01:13] [Client thread/ERROR]: Using missing texture, unable to load chisel:textures/items/smashingrock.png, java.io.FileNotFoundException
+[22:01:13] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_4521_decowand.png, java.io.FileNotFoundException
+[22:01:13] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_4120_briefcase.png, java.io.FileNotFoundException
+[22:01:13] [Client thread/ERROR]: Using missing texture, unable to load minecraft:textures/items/MISSING_ICON_ITEM_4114_taser.png, java.io.FileNotFoundException
+[22:01:13] [Client thread/INFO]: Created: 4096x2048 textures/items-atlas
+[22:01:14] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[22:01:14] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[22:01:14] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[22:01:14] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[22:01:14] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[22:01:14] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Starting up SoundSystem...
+[22:01:14] [Thread-16/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: Initializing LWJGL OpenAL
+[22:01:14] [Thread-16/INFO]: [paulscode.sound.SoundSystemLogger:message:69]:     (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[22:01:14] [Thread-16/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: OpenAL initialized.
+[22:01:14] [Client thread/WARN]: File customnpcs:sounds/human/girl/villager/What do you need.ogg does not exist, cannot add it to event customnpcs:human.girl.villager.what_do_you_need
+[22:01:14] [Client thread/WARN]: File customnpcs:sounds/human/girl/villager/Would you like to trade.ogg does not exist, cannot add it to event customnpcs:human.girl.villager.trade
+[22:01:14] [Sound Library Loader/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[22:01:14] [Sound Library Loader/INFO]: Sound engine started
+[22:01:21] [Client thread/INFO]: Connecting to 127.0.0.1, 25565
+[22:01:22] [Netty Client IO #2/INFO]: Aborting client handshake "VANILLA"
+[22:01:22] [Netty Client IO #2/INFO]: [Netty Client IO #2] Client side vanilla connection established
+[22:01:22] [Netty Client IO #2/INFO]: Scheduling client settings reset.
+[22:01:22] [Client thread/INFO]: [net.hegedus.binocular.handlers.GenericEventsHandler:onEntityConstructing:130]: -----> onEntityConstructing: none
+[22:01:22] [Client thread/INFO]: [net.hegedus.binocular.util.Utils:initConfig:56]: LOAD CONFIG...
+[22:01:22] [Client thread/INFO]: [net.hegedus.binocular.util.Utils:initConfig:66]: WORLD NAME: Minecraft Server
+[22:01:23] [Thread-10/INFO]: [CHAT] §2CustomNpcs§f installed. For more info §9§nClick here
+[22:01:23] [Client thread/INFO]: [CHAT] A new §eOptiFine§f version is available: §eHD Ultra E7§f
+[22:01:23] [Client thread/INFO]: [CHAT] CubicCore is not the latest version! Click here to update.
+[22:01:23] [Client thread/INFO]: [CHAT] NeighborCraft is not the latest version! Click here to update.
+[22:01:34] [Client thread/WARN]: Null returned as 'hitResult', this shouldn't happen!
+[22:02:30] [Client thread/INFO]: [CHAT] [Server: Stopping the server]
+[22:02:30] [Netty Client IO #2/INFO]: Scheduling client settings reset.
+[22:02:31] [Client thread/INFO]: Applying holder lookups
+[22:02:31] [Client thread/INFO]: Holder lookups applied
+[22:09:39] [Client thread/INFO]: Stopping!
+[22:09:39] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
+[22:09:39] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: SoundSystem shutting down...
+[22:09:39] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:importantMessage:90]:     Author: Paul Lamb, www.paulscode.com
+[22:09:39] [Client thread/INFO]: [paulscode.sound.SoundSystemLogger:message:69]: 
